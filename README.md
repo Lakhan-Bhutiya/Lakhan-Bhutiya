@@ -1,16 +1,28 @@
-## Hi there 👋
+class man:
+    def __init__(self, name, age, role, tools, goals):
+        self.name = name
+        self.age = age
+        self.role = role
+        self.tools = tools
+        self.goals = goals
 
-<!--
-**Lakhan-Bhutiya/Lakhan-Bhutiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lakhan = man(
+    name="Bhutiya Lakhan",
+    age=20,
+    role="Machine Learning Enthusiast",
+    tools={
+        "machine": "Asus vivobook pro 15(16gb ram,512gb storage)",
+        "os": "Windows",
+        "editor": "VS Code + Jupyter",
+        "languages": "Python, SQL",
+        "libraries": "NumPy, pandas, scikit-learn, TensorFlow"
+    },
+    goals=[
+        "Contribute to open source",
+        "Build an ML project (medical prediction app)",
+        "Level up in data visualization",
+        "Craft a standout LinkedIn + GitHub presence"
+    ]
+)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+lakhan.introduce()
