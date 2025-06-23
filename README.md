@@ -1,16 +1,8 @@
 ### 🧠 About Me
 
-class Human:
-     def __init__(self, name, age, role, tools, goals):
-     
-        self.name = name
-        self.age = age
-        self.role = role
-        self.tools = tools
-        self.goals = goals
 
 
-lakhan = Human(
+ # lakhan = Human(
 
     name="Bhutiya Lakhan",
     age=20,
