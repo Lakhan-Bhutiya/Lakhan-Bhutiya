@@ -2,7 +2,7 @@
 
 
 
- # lakhan = Human(
+ # Lakhan = Human(
 
     name="Bhutiya Lakhan",
     age=20,
