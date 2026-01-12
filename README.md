@@ -1,6 +1,6 @@
 ### 🧠 About Me
 
-$ python 
+#  python 
  # Lakhan = Data_Scientist(
 
     name="Bhutiya Lakhan",
