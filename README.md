@@ -1,7 +1,7 @@
 ### 🧠 About Me
 
  
- # Lakhan = Data_Scientist(
+ Lakhan = Data_Scientist(
 
     name="Bhutiya Lakhan",
     age=20,
